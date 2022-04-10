@@ -18,7 +18,30 @@ For this project Bobby and I were tasked to help prepare his manager for the "Si
 
 ![retirementbycount](https://user-images.githubusercontent.com/99618784/162595558-d938be86-3cca-43fd-a114-e48be41eacc7.PNG)
 
+### The Employees Eligible for the Mentorship Program
+
+  * 14383 Engineers
+  * 13033 Senior Staff
+  * 12637 Staff
+  * 12260 Senior Engineer
+  * 2705 Technique Leaders
+  * 1838 Assitant Engineers
+  * 3 Managers 
+
+![eligiblebycount](https://user-images.githubusercontent.com/99618784/162595795-e3b07fc0-5376-4f20-8cc5-12e9a82e7464.PNG)
+
+
+
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+
+
+
+
+
+
+
