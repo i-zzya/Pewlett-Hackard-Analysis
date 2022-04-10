@@ -8,6 +8,17 @@ For this project Bobby and I were tasked to help prepare his manager for the "Si
 
 ### The Number of Retiring Employees by Title
 
+  * 29414 Senior Engineers
+  * 28254 Senior Staff
+  * 14222 Engineers
+  * 12243 Staff
+  * 4502 Technique Leaders
+  * 1761 Assistant Engineers
+  * 2 Managers
+
+![retirementbycount](https://user-images.githubusercontent.com/99618784/162595558-d938be86-3cca-43fd-a114-e48be41eacc7.PNG)
+
+
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
