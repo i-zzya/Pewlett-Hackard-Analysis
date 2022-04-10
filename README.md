@@ -31,15 +31,9 @@ For this project Bobby and I were tasked to help prepare his manager for the "Si
 ![eligiblebycount](https://user-images.githubusercontent.com/99618784/162595795-e3b07fc0-5376-4f20-8cc5-12e9a82e7464.PNG)
 
 
+## Summary
 
-
-Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
-
-
-
+As the "Silver Tsumani" begins to make an impact, over 90k roles will need to be filled. There are enough Engineers, Staff, Assistant Engineers, and Managers to fill the positions of retirees. However there is a mass void in the following positions: Senior Engineers, Senior Staff, and Technique Leaders. Bobby and I suggested that Pewlett-Hackard starts trying to grow those positions first to make sure they have enough ready-to-promote employees as others start to move onto the next phase of their lives. 
 
 
 
